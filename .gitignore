@@ -1,1 +1,12 @@
+#Demo/examples
+
+*Ds_store
+*.zip
+*.gz
+log/*.log
+assets/photoshop/
+assets/vidoes
 !assets/vidoes/cup_ *mp4
+
+
+access.log
